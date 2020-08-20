@@ -9,7 +9,9 @@
 
 <img width="800" alt="스크린샷 2020-08-20 오후 8 20 44" src="https://user-images.githubusercontent.com/56465854/90764210-f3fc1a80-e322-11ea-8298-df9646b8623d.png">
 
-# 회귀 알고리즘 [Ex 레모네이드 판매예측](https://github.com/myungsworld/Machine-learning/blob/master/%EC%83%81%EB%8B%B9%ED%9E%88_%EC%8C%94%EA%B7%B8%EB%9F%AC%EC%9A%B4_%EB%A0%88%EB%AA%AC%EC%97%90%EC%9D%B4%EB%93%9C.ipynb)
+# 회귀 알고리즘 
+
+__[Ex 레모네이드 판매예측](https://github.com/myungsworld/Machine-learning/blob/master/%EC%83%81%EB%8B%B9%ED%9E%88_%EC%8C%94%EA%B7%B8%EB%9F%AC%EC%9A%B4_%EB%A0%88%EB%AA%AC%EC%97%90%EC%9D%B4%EB%93%9C.ipynb)__
 <img width="800" alt="스크린샷 2020-08-17 오후 1 33 31" src="https://user-images.githubusercontent.com/56465854/90357735-fa726400-e08e-11ea-8aad-6ce975337f31.png">
 ---
 <img width="800" alt="스크린샷 2020-08-17 오후 1 33 51" src="https://user-images.githubusercontent.com/56465854/90357809-2b529900-e08f-11ea-8477-c30745bd2494.png">

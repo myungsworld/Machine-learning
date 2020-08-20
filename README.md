@@ -17,5 +17,7 @@
 <img width="800" alt="스크린샷 2020-08-17 오후 1 34 17" src="https://user-images.githubusercontent.com/56465854/90357812-2db4f300-e08f-11ea-833a-28b297c3f683.png">
 ---
 <img width="800" alt="스크린샷 2020-08-17 오후 1 36 33" src="https://user-images.githubusercontent.com/56465854/90357815-2ee62000-e08f-11ea-9458-b411368c53ec.png">
+
 # 분류 알고리즘
+<img width="1384" alt="스크린샷 2020-08-20 오후 8 27 27" src="https://user-images.githubusercontent.com/56465854/90764800-e4c99c80-e323-11ea-88b9-972a26a0f7e3.png">
 

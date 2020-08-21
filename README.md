@@ -33,5 +33,4 @@ __[예제 보스턴 집값 예측](https://github.com/myungsworld/Machine-learni
 ---
 <img width="800" alt="스크린샷 2020-08-21 오전 10 24 38" src="https://user-images.githubusercontent.com/56465854/90842082-57289400-e399-11ea-9995-705609374654.png">
 
-레잉
 
